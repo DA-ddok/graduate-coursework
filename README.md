@@ -16,7 +16,6 @@
 ```
 graduate-ds-portfolio/
 ├── 01_data-visualization/
-│   ├── lectures/        # 강의노트 12개 (Pandas → Dash)
 │   ├── assignments/     # 과제 3개 (hw1~hw3)
 │   └── data/            # 실습 데이터 4개
 ├── 02_math-foundations/
